@@ -1,2 +1,34 @@
 # Solar-Flare-Prediction-Enhanced
-Enhanced Solar Flare Prediction (Improved version of the previous model for second paper)
+The "Enhanced Solar Flare Prediction" is a repository that improved version of the previous model (https://github.com/ZeinabHassani/SolarFlarePredition/).
+This work applies the Enhanced Decomposition-LSTM (DLSTM) networks with STL decomposition to detect temporal quasi-patterns in regular flare time series from 2003 to 2023 recorded by GOES.
+
+ # Keywords
+Solar flare forecasting, Non-stationary time series, Decomposition, BiLSTM.
+
+# Overview
+The project includes the following:
+
+   1. **Preprocessing and decomposition:** Smoothing, Normalization, Regularization, STL decomposition, and Oversampling Sliding Window
+    
+   2. **Solar flare forecasting:** integrates three prediction modules—trend, seasonal, and residual—along with a classification module.
+
+
+# DataSet
+The dataset includes a list of solar flare events from 2003 to 2023 that are obtained  from x-ray GOES data(https://doi.org/10.5281/zenodo.10560188). 
+This work employs peak fluxes and waiting times of irregular flare time series. Also, the irregular flare time series is regularized  with a 3-hour interval  that contains maximum peak fluxes within each interval.
+
+# Results
+Our results include six different models in the irregular(original data) and regular flare without resampling R=0 and with oversampling  R=12, by size window=24.
+
+<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R0.png" width="400" />
+ROC of six models without resampling 
+<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R12.png" width="400" />
+ROC of six models with oversampling  R=12   
+
+# Authors
+[Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
+
+# Citation
+If you find this repository useful, please cite our paper ():
+
+
