@@ -29,8 +29,10 @@ The samples of confusion matrix elements for predicting the small and large flar
 <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure40.jpg" width="400" />
 
 Precision (left panel) and recall (right panel) from 4-fold cross-validation for the EDLSTMSTL, TCDformer, and Auformer models.
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure51.jpg" width="400" />
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure52.png" width="400" />
+<p float="left">
+  <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure51.jpg" width="400" />
+  <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure52.jpg" width="400" />
+</p>
 
 # Authors
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
