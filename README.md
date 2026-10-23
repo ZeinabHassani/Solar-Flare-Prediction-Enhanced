@@ -30,7 +30,7 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 
 
 # Citation
-If you find this repository useful, please cite our paper (https://iopscience.iop.org/article/10.3847/1538-4365/addc73):
+If you find this repository useful, please cite our paper (https://link.springer.com/article/10.1007/s11227-026-08493-7):
 
      @article{Hassani_2025,
      doi = {10.3847/1538-4365/addc73},
@@ -46,21 +46,16 @@ If you find this repository useful, please cite our paper (https://iopscience.io
      journal = {The Astrophysical Journal Supplement Series},
      }
 
-
-# Citation
-If you find this repository useful, please cite our paper (https://link.springer.com/article/10.1007/s11227-026-08493-7):
-
-
-@article{Hassani2026,
-author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
-doi = {10.1007/s11227-026-08493-7},
-issn = {1573-0484},
-journal = {The Journal of Supercomputing},
-number = {5},
-pages = {326},
-title = {{Non-stationary flare time series prediction using bidirectional long short-term memory based on STL decomposition}},
-url = {https://doi.org/10.1007/s11227-026-08493-7},
-volume = {82},
-year = {2026}
-}
+     @article{Hassani2026,
+     author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
+     doi = {10.1007/s11227-026-08493-7},
+     issn = {1573-0484},
+     journal = {The Journal of Supercomputing},
+     number = {5},
+     pages = {326},
+     title = {{Non-stationary flare time series prediction using bidirectional long short-term memory based on STL decomposition}},
+     url = {https://doi.org/10.1007/s11227-026-08493-7},
+     volume = {82},
+     year = {2026}
+     }
 
