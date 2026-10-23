@@ -20,10 +20,10 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 # Results
 
 Accuracy (right panel) and TSS (left panel) of the EDLSTM-STL model obtained from 4-fold cross-validation.
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure31.jpg" width="400" />
-
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure32.jpg" width="400" />
-
+<p float="left">
+ <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure31.jpg" width="400" />
+ <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure32.jpg" width="400" />
+</p>
 
 The samples of confusion matrix elements for predicting the small and large flares. The sample of confusion matrix including T P = 9344, T N = 290, F N = 7, and F P = 447. The background images represent samples of large and small flares in the diagonals elements, respectively.
 <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure40.jpg" width="400" />
