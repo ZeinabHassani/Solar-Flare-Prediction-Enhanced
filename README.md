@@ -22,11 +22,11 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 
 <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure31.jpg" width="400" />
 
-<img src= width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure32.jpg" width="400" />
 
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure40.png" width="400" />
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure51.png" width="400" />
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure52.png" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure40.jpg" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure51.jpg" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure52.png" width="400" />
 
 # Authors
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
