@@ -29,6 +29,19 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
 
 # Citation
-If you find this repository useful, please cite our paper ():
+If you find this repository useful, please cite our paper (https://link.springer.com/article/10.1007/s11227-026-08493-7):
 
+
+@article{Hassani2026,
+author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
+doi = {10.1007/s11227-026-08493-7},
+issn = {1573-0484},
+journal = {The Journal of Supercomputing},
+number = {5},
+pages = {326},
+title = {{Non-stationary flare time series prediction using bidirectional long short-term memory based on STL decomposition}},
+url = {https://doi.org/10.1007/s11227-026-08493-7},
+volume = {82},
+year = {2026}
+}
 
