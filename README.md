@@ -20,10 +20,13 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 # Results
 
 
-<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R0.png" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure31.jpg" width="400" />
 
-<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R12.png" width="400" />
- 
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure32.png" width="400" />
+
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure40.png" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure51.png" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure52.png" width="400" />
 
 # Authors
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
