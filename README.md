@@ -20,9 +20,9 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 # Results
 
 
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure31.jpg" width="400" />
+<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/blob/main/Results/figure31.jpg" width="400" />
 
-<img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure32.png" width="400" />
+<img src= width="400" />
 
 <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure40.png" width="400" />
 <img src="https://github.com/ZeinabHassani/Solar-Flare-Prediction-Enhanced/main/Results/figure51.png" width="400" />
