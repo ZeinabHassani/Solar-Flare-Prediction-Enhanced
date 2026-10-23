@@ -28,6 +28,25 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 # Authors
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
 
+
+# Citation
+If you find this repository useful, please cite our paper (https://iopscience.iop.org/article/10.3847/1538-4365/addc73):
+
+     @article{Hassani_2025,
+     doi = {10.3847/1538-4365/addc73},
+     url = {https://dx.doi.org/10.3847/1538-4365/addc73},
+     year = {2025},
+     month = {jul},
+     publisher = {The American Astronomical Society},
+     volume = {279},
+     number = {1},
+     pages = {27},
+     author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
+     title = {Solar Flare Prediction Using Long Short-term Memory (LSTM) and Decomposition-LSTM with Sliding Window Pattern Recognition},
+     journal = {The Astrophysical Journal Supplement Series},
+     }
+
+
 # Citation
 If you find this repository useful, please cite our paper (https://link.springer.com/article/10.1007/s11227-026-08493-7):
 
